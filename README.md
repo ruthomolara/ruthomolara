@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ruthomolara
-- 👀 I’m interested in data analysis and data science 
-- 🌱 I’m currently learning data visualization 
-- 💞️ I’m looking to collaborate on learning SQL and data visualization 
+- 👀 I’m interested in data analysis and data visualization
+- 🌱 I’m proficient in the us of MsExcel, SQL, PowerBi and Tableau
+- 💞️ I’m currently learning programming language 
 - 📫 How to reach me @ ajagunna ruth omolara on all social media platform 
 
 <!---
