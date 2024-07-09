@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruthomolara
 - 👀 I’m interested in data analysis and data visualization
-- 🌱 I’m proficient in the use of MsExcel, SQL, PowerBi and Tableau
+- 🌱 I’m proficient in the use of Python, MsExcel, SQL, PowerBi and Tableau
 - 💞️ I’m currently learning programming language (R)
 - 📫 How to reach me @ ajagunna ruth omolara on all social media platform 
 
